@@ -1,0 +1,23 @@
+Compiling 1 file (.ex)
+
+23:28:52.318 [info]  Starting streaming on xrpusdt
+
+23:28:52.318 [debug] wss://stream.binance.com:9443/ws/xrpusdt@trade
+Interactive Elixir (1.10.3) - press Ctrl+C to exit (type h() ENTER for help)
+iex(1)> 
+23:29:00.967 [info]  Worker_60 finished timeframe. ohlc: %Temp.Ohlc{close: "0.24487000", end_time: 1602023280, high: "0.24488000", low: "0.24487000", open: "0.24488000", start_time: 1602023280, symbol: "XRPUSDT"}
+iex(1)> 
+23:29:00.967 [info]  Streaming to worker_300
+iex(1)> 
+23:30:13.429 [info]  Worker_60 finished timeframe. ohlc: %Temp.Ohlc{close: "0.24489000", end_time: 1602023340, high: "0.24492000", low: "0.24481000", open: "0.24483000", start_time: 1602023340, symbol: "XRPUSDT"}
+iex(1)> 
+23:30:13.429 [info]  Streaming to worker_300
+iex(1)> 
+23:31:01.151 [info]  Worker_60 finished timeframe. ohlc: %Temp.Ohlc{close: "0.24445000", end_time: 1602023400, high: "0.24486000", low: "0.24442000", open: "0.24486000", start_time: 1602023400, symbol: "XRPUSDT"}
+iex(1)> 
+23:31:01.151 [info]  Streaming to worker_300
+iex(1)> 
+23:31:01.152 [info]  Worker_300 finished timeframe. ohlc: %Temp.Ohlc{close: "0.24489000", end_time: 1602023340, high: "0.24492000", low: "0.24481000", open: "0.24488000", start_time: 1602023340, symbol: "XRPUSDT"}
+iex(1)> 
+23:31:01.152 [info]  Streaming to worker_900
+iex(1)> 
